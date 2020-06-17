@@ -17,8 +17,9 @@ end
 
 def output_array(message,num)
   index = 0 
-  binding.pry
+  
   while index < num do
+    binding.pry
     puts message 
     index += 1
   end
