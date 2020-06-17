@@ -29,6 +29,8 @@ def output_array(message,num)
 end
 
 def return_string_array(array)
+  index = 0 
+  while index < array.length do 
   array.to_s
-  
+end
 end
