@@ -15,7 +15,7 @@ def loop_message_n_times(message,num)
   end
 end
 
-def output_array(message,num)
+def output_array(message)
   index = 0 
   while index < array.length do
     puts message[index]
