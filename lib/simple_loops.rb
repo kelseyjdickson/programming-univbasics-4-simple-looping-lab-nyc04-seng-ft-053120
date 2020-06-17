@@ -22,6 +22,7 @@ def output_array(message,num)
     binding.pry
     puts message 
     index += 1
+    binding.pry
   end
   
 end
