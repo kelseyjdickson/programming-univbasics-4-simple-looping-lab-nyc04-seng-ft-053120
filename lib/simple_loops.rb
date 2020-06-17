@@ -1,7 +1,7 @@
 def loop_message_five_times(message)
   index = 0 
   while index < 5 do
-   puts messages
+   puts message
     index += 1
   end
 end
