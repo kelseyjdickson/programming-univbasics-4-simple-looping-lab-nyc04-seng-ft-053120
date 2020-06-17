@@ -15,6 +15,11 @@ def loop_message_n_times(message,num)
 end
 
 def output_array(message,num)
+  index = 0 
+  while index < num do
+    puts message 
+    index += 1
+  end
   
 end
 
