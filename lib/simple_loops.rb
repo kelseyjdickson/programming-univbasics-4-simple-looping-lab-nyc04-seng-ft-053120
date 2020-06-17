@@ -32,5 +32,6 @@ def return_string_array(array)
   index = 0 
   while index < array.length do 
   array.to_s
+  index += 1
 end
 end
