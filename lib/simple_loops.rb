@@ -19,11 +19,11 @@ def output_array(message,num)
   index = 0 
   
   while index < num do
-    binding.pry
+    
     puts message 
     binding.pry
     index += 1
-    binding.pry
+    
   end
   
 end
