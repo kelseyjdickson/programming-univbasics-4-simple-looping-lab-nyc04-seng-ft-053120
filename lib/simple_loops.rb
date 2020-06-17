@@ -17,16 +17,11 @@ end
 
 def output_array(message,num)
   index = 0 
-  
-  while index < num do
-    
-    puts message 
-    
+  while index < array.length
+    puts message[index]
     index += 1
-    
+    end
   end
-  
-end
 
 def return_string_array(array)
   index = 0 
