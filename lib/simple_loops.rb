@@ -17,7 +17,7 @@ end
 
 def output_array(message,num)
   index = 0 
-  while index < array.length
+  while index < array.length do
     puts message[index]
     index += 1
     end
