@@ -21,7 +21,7 @@ def output_array(message,num)
   while index < num do
     
     puts message 
-    binding.pry
+    
     index += 1
     
   end
